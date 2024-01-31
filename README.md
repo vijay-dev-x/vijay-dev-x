@@ -46,8 +46,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/vijay-dev-x/vijay-dev-x/output/snake.svg" alt="Snake animation" />
-
-###
